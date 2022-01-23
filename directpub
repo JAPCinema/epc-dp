@@ -1,0 +1,50 @@
+{
+  "lastUpdated": "2022-01-22T09:39:02+00:00",
+  "providerName": "Jessica Alexis Pendergraph",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "f57c7c3edf404fc6af2fa09712d81723",
+      "title": "Mindsets",
+      "content": {
+        "dateAdded": "2022-01-22T21:30:55+00:00",
+        "videos": [
+          {
+            "url": "https://youtu.be/bHI00mTANcs",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 599,
+        "trickPlayFiles": [
+          {
+            "quality": "FHD",
+            "url": "https://youtu.be/bHI00mTANcs"
+          }
+        ]
+      },
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdjZmI5NjUtMTIyZC00ZGE3LThmNWQtM2YzMzZmMmVlNzQ1XkEyXkFqcGdeQXVyMTMwMzI0NDk4._V1_UY264_CR144,0,180,264_AL_.jpg",
+      "shortDescription": "A journey Into The Mindsets Of Those Around Us",
+      "releaseDate": "2022-01-22",
+      "longDescription": "Have you ever wished you could get into the mind of someone else? Did you ever feel too awkward to ask those deep questions, trying to see if there was anyone like you? Now you can, with the new Mindsets short video. Her we take a look into loneliness and depression at the height of the pandemic.",
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "credits": [
+        {
+          "name": "Jessica Alexis Pendergraph",
+          "role": "actor"
+        },
+        {
+          "name": "Jessica Alexis Pendergraph",
+          "role": "director"
+        }
+      ],
+      "rating": {
+        "rating": "18+",
+        "ratingSource": "MPAA"
+      }
+    }
+  ]
+}
